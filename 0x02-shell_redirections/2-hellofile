@@ -1,2 +1,2 @@
 #1/bin/bash
-cat /etc/passwd
+sudo oat /etc/passwd
